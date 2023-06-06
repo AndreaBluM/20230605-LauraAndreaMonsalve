@@ -1,0 +1,15 @@
+Comando usados
+1. Cd
+2. mkdir
+3. touch
+4. mv
+5. git
+6. git status
+7. git init
+8. git commit -m ""
+9. ls
+10. git branch nombre-rama
+11. git checkout nombre-rama
+12. git add
+13. git push
+
